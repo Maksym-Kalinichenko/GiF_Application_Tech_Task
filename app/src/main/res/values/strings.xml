@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Gif App</string>
+    <string name="errorMsg">Error</string>
+</resources>
